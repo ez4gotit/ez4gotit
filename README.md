@@ -6,31 +6,48 @@
 I am cyber security bachelor student @ Innopolis University, also work here as a Middle CyberSec specialist for over a year. 
 Key professional interest for now is IT infrastructures, and ways to make them secure and reliable. Repos you might see bellow are mostly my practice with technologies or University assignments. 
 
-* cv: https://dpttk.ru/ivan-platonov.pdf
-
 ---
 ### Stack
 [![My Skills](https://skillicons.dev/icons?i=bash,unity,unrealengine,arduino,k8s,docker,linux,python,gitlab,github,git,jenkins)](https://skillicons.dev)
 
 ... Or, to be more specific:
-* Linux
+▎ Linux
 	* Every day use
  	* You can see it in repos 
-* SOC tools
+▎ SOC tools
 	* XDR
 	* IDS
 	* SIEM
+		MaxPatrol 10
+		Wazuh
+		Kuma
 	* WAF
-* Offensive tools 
+		PTAF
+▎  Offensive tools 
 	* Too many lite tools to list them all
-* Docker
+▎  Docker
 	* Every day use
 	* You can see it in repos
-* Scripting with python, bash
+▎  Scripting with python, bash
 	* Every day use
 	* You can see it in repos
-▎Game Development
+▎ Forensics
+	FTK Imager
+	Arsenal Image Mounter
+	RegistryExplorer
+	WireShark
+	Volatility3 
+	Event Log Explorer(Ultra Pay 2 win but i love it)
+	ClamAV
+	Impacket
+	Autospy - tool made by gods.
+ 	and etc...
 
+▎ Few Reverse
+	DNSpy
+	ILSpy
+	Ghidra
+	IDA
 ▎Unity (C#)
 
 • Everyday Use
