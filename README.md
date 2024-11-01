@@ -14,41 +14,47 @@ Key professional interest for now is IT infrastructures, and ways to make them s
 ▎ Linux
 	* Every day use
  	* You can see it in repos 
+  
 ▎ SOC tools
 	* XDR
 	* IDS
 	* SIEM
-		MaxPatrol 10
-		Wazuh
-		Kuma
+		* MaxPatrol 10
+		* Wazuh
+		* Kuma
 	* WAF
-		PTAF
+		* PTAF
+  
 ▎  Offensive tools 
 	* Too many lite tools to list them all
+ 
 ▎  Docker
 	* Every day use
 	* You can see it in repos
+ 
 ▎  Scripting with python, bash
 	* Every day use
 	* You can see it in repos
+ 
 ▎ Forensics
-	FTK Imager
-	Arsenal Image Mounter
-	RegistryExplorer
-	WireShark
-	Volatility3 
-	Event Log Explorer(Ultra Pay 2 win but i love it)
-	ClamAV
-	Impacket
-	Autospy - tool made by gods.
- 	and etc...
+	* FTK Imager
+	* Arsenal Image Mounter
+	* RegistryExplorer
+	* WireShark
+	* Volatility3 
+	* Event Log Explorer(Ultra Pay 2 win but i love it)
+	* ClamAV
+	* Impacket
+	* Autospy - tool made by gods.
+ 	* and etc...
 
 ▎ Few Reverse
-	DNSpy
-	ILSpy
-	Ghidra
-	IDA
-▎Unity (C#)
+	* DNSpy
+	* ILSpy
+	* Ghidra
+	* IDA
+ 
+▎ Unity (C#)
 
 • Everyday Use
 
@@ -60,7 +66,7 @@ Key professional interest for now is IT infrastructures, and ways to make them s
 
   • Numerous open-source projects and tutorials available on platforms like GitHub.
   
-▎Unreal Engine 5
+▎ Unreal Engine 5
 
 • Everyday Use
 
@@ -72,7 +78,7 @@ Key professional interest for now is IT infrastructures, and ways to make them s
 
   • Many sample projects, plugins, and resources shared by the community.
 
-▎Multiplayer Games
+▎ Multiplayer Games
 
 • Focus on Networking
 
@@ -82,7 +88,7 @@ Key professional interest for now is IT infrastructures, and ways to make them s
 
   • Emphasis on cooperative gameplay mechanics, player interaction, and shared objectives.
 
-▎Arduino and Robotics
+▎ Arduino and Robotics
 
 • Everyday Use
 
@@ -94,7 +100,7 @@ Key professional interest for now is IT infrastructures, and ways to make them s
 
   • Numerous open-source projects and libraries available for various sensors, motors, and modules on platforms like GitHub.
 
-▎Robotics
+▎ Robotics
 
 • Integration with Arduino
 
