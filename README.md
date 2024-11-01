@@ -27,16 +27,8 @@ Key professional interest for now is BlueTeam, Forensics. Repos you might see be
  * IDS
 	
  * SIEM
-
-   * MaxPatrol 10
-
-   * Wazuh
-
-   * Kuma
 	
  * WAF
-
-   * PTAF
   
 ▎  Offensive tools 
 	
