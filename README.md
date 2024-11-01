@@ -4,13 +4,16 @@
 ### About
 `Mikhail Dudinov`
 I am cyber security bachelor student @ Innopolis University, also work here as a Middle CyberSec specialist for over a year. 
-Key professional interest for now is IT infrastructures, and ways to make them secure and reliable. Repos you might see bellow are mostly my practice with technologies or University assignments. 
+Key professional interest for now is BlueTeam, Forensics. Repos you might see bellow are mostly my practice with technologies or University assignments. 
 
 ---
 ### Stack
 [![My Skills](https://skillicons.dev/icons?i=bash,unity,unrealengine,arduino,k8s,docker,linux,python,gitlab,github,git,jenkins)](https://skillicons.dev)
 
+
 ... Or, to be more specific:
+
+
 ▎ Linux
 	* Every day use
  	* You can see it in repos 
