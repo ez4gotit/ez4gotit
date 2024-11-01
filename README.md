@@ -15,47 +15,76 @@ Key professional interest for now is BlueTeam, Forensics. Repos you might see be
 
 
 ▎ Linux
-	* Every day use
- 	* You can see it in repos 
+	
+ * Every day use
+
+   * You can see it in repos 
   
 ▎ SOC tools
-	* XDR
-	* IDS
-	* SIEM
-		* MaxPatrol 10
-		* Wazuh
-		* Kuma
-	* WAF
-		* PTAF
+	
+ * XDR
+	
+ * IDS
+	
+ * SIEM
+
+   * MaxPatrol 10
+
+   * Wazuh
+
+   * Kuma
+	
+ * WAF
+
+   * PTAF
   
 ▎  Offensive tools 
-	* Too many lite tools to list them all
+	
+ * Too many lite tools to list them all
  
 ▎  Docker
-	* Every day use
-	* You can see it in repos
+	
+ * Every day use
+	
+ * You can see it in repos
  
 ▎  Scripting with python, bash
-	* Every day use
-	* You can see it in repos
+	
+ * Every day use
+	
+ * You can see it in repos
  
 ▎ Forensics
-	* FTK Imager
-	* Arsenal Image Mounter
-	* RegistryExplorer
-	* WireShark
-	* Volatility3 
-	* Event Log Explorer(Ultra Pay 2 win but i love it)
-	* ClamAV
-	* Impacket
-	* Autospy - tool made by gods.
- 	* and etc...
+	
+ * FTK Imager
+	
+ * Arsenal Image Mounter
+	
+ * RegistryExplorer
+	
+ * WireShark
+	
+ * Volatility3 
+	
+ * Event Log Explorer(Ultra Pay 2 win but i love it)
+	
+ * ClamAV
+	
+ * Impacket
+	
+ * Autospy - tool made by gods.
+ 
+  * and etc...
 
 ▎ Few Reverse
-	* DNSpy
-	* ILSpy
-	* Ghidra
-	* IDA
+	
+ * DNSpy
+	
+ * ILSpy
+	
+ * Ghidra
+	
+ * IDA
  
 ▎ Unity (C#)
 
